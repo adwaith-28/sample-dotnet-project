@@ -1,4 +1,4 @@
-# Ignore build output
+﻿# Ignore build output
 bin/
 obj/
 
