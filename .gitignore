@@ -1,0 +1,27 @@
+# Ignore build output
+bin/
+obj/
+
+# Ignore user-specific files
+*.user
+*.suo
+
+# Ignore Visual Studio settings
+.vscode/
+*.vs/
+
+# Ignore compiled DLLs and EXEs
+*.dll
+*.exe
+
+# Ignore packages
+packages/
+*.nupkg
+
+# Ignore temporary files
+*.log
+*.tmp
+
+# Ignore environment files
+.env
+secrets.json
