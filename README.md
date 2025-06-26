@@ -1,5 +1,8 @@
 ## Used ASP.NET to create APIs for a to-do list application. 
 
+Hosted the APIs in Azure.
+Swagger Page Link : https://todo-api-yourname.azurewebsites.net/swagger/index.html
+
 I have created APIs that allow me to: <br />
 
 => View all tasks (GET) <br />
