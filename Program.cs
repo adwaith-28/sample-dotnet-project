@@ -12,11 +12,9 @@ builder.Services.AddSingleton<ToDoService>();
 
 var app = builder.Build();
 
-if(app.Environment.IsDevelopment())
-{
-    app.UseSwagger();
-    app.UseSwaggerUI();
-}
+app.UseSwagger();
+app.UseSwaggerUI();
+
 
 app.UseHttpsRedirection();
 
